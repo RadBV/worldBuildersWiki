@@ -1,4 +1,4 @@
-# worldBuildersWiki
+# WorldBuilder's Wiki
 
 ## Introduction
 #### Problem Statement
@@ -9,7 +9,7 @@ Worldbuilder's Wiki helps keep all those ideas in one organized and easily acces
 
 ## Technologies
 1. Swift 5 / Xcode 11.3
-1.
+1. SDWebImage 5.0
 
 ## Example of User Usage
 - The User is a creator who is presented with the option to create or delete entire wikis.
