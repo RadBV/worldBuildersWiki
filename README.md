@@ -7,8 +7,10 @@ You may be a writer, game-maker, dungeon master or just an artist with a lot of 
 #### Solution
 Worldbuilder's Wiki helps keep all those ideas in one organized and easily accesible place, much like a regular wiki, fandom wiki or game wiki. A user would be able to create multiple wikis for seperate ideas or projects, and have some customizable control on the layout of each wiki.
 
-## Technologies
+## Current Technologies 
 1. Swift 5 / Xcode 11.3
+
+## Future Technologies
 1. SDWebImage 5.0
 
 ## Example of User Usage
